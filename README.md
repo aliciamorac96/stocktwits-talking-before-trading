@@ -1,13 +1,7 @@
 # Talking Before Trading: Are StockTwits Comments Linked to Apple's Trading Volume?
 
-BA780 Introduction to Data Analytics · Boston University Questrom School of Business · Fall 2026 · Team B08
-
-## Team
-
-- Alicia Mora
-- Almira Lazim
-- Ricardo Huang Wei Di
-- Pakaporn (Zoe) Leetrairong
+BA780 Introduction to Data Analytics · Boston University · Questrom School of Business · Fall 2026
+Team B08: Alicia Mora (project manager) · Almira Lazim · Ricardo Huang Wei Di · Pakaporn (Zoe) Leetrairong
 
 ## The question
 
@@ -60,11 +54,10 @@ We wanted to know: **if people comment more about Apple (AAPL) today, is more Ap
 | `B08_Talking_Before_Trading_StockTwits_and_AAPL.pptx` | Final presentation |
 | Release `v1` → `stocktwits.zip` | The 62 StockTwits CSV files (about 1.2 GB) |
 
-## How to run
+## How to view or run
 
-1. Open the notebook in [Google Colab](https://colab.research.google.com/).
-2. Go to **Runtime → Run all**.
-3. The notebook downloads the StockTwits files from this repository's release and Apple's data from Yahoo Finance automatically. No manual download is needed.
+- **View:** the notebook is already executed, so all outputs and charts show directly on GitHub. If it doesn't load (large notebooks sometimes fail), open it in [nbviewer](https://nbviewer.org/).
+- **Run:** open it in [Google Colab](https://colab.research.google.com/) and select **Runtime → Run all**. The data downloads automatically.
 
 Main libraries: `pandas`, `matplotlib`, `seaborn`, `yfinance`.
 
