@@ -56,7 +56,7 @@ We wanted to know: **if people comment more about Apple (AAPL) today, is more Ap
 
 ## How to view or run
 
-- **View:** the notebook is already executed, so all outputs and charts show directly on GitHub. If it doesn't load (large notebooks sometimes fail), open it in [nbviewer](https://nbviewer.org/).
+- **View:** the notebook is already executed, so all outputs and charts show directly on GitHub.
 - **Run:** open it in [Google Colab](https://colab.research.google.com/) and select **Runtime → Run all**. The data downloads automatically.
 
 Main libraries: `pandas`, `matplotlib`, `seaborn`, `yfinance`.
